@@ -72,7 +72,7 @@ me = RisqiRA()
 
 
 ## Spotify Playing 🎧
-![See what Ish is playing](https://spotify-recently-played-readme.vercel.app/api?user=31kktsuzcjget5ji54nlj5milptm&width=355&count=1)
+![See what Ish is playing](https://spotify-recently-played-readme.vercel.app/api?user=31tsemt7zyjkmawwvw6vyh2olnne=355&count=3)
 
 <p align="left">
     <a href="https://github.com/risqiraa/risqiraa"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
