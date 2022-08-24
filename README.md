@@ -70,6 +70,10 @@ me = RisqiRA()
   <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C" />
 </p>
 
+
+## Spotify Playing 🎧
+![See what Ish is playing](https://spotify-recently-played-readme.vercel.app/api?user=31kktsuzcjget5ji54nlj5milptm&width=355&count=1)
+
 <p align="left">
     <a href="https://github.com/risqiraa/risqiraa"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/risqiraa/risqiraa/graphs/contributors"><img src="https://img.shields.io/github/contributors/risqiraa/risqiraa?color=blue"></a>
