@@ -7,7 +7,23 @@
 
 [![](./header_.png)](#)
 
-> <b>Halooo</b>.
+## Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
+### About me!
+```python
+class RisqiRA:
+    def __init__(self):
+        self.info={
+            institute: "State Polytechnic of Jember  ",
+            status: "Student",
+            goal: "To become a web development"
+        }
+        self.code=["Java","C++","python"]
+        self.tools=["Visual Studio Code","Windows 10","ASUS","Github","dll"]
+        self.interest=("Problem Solving","Coding")
+        
+        
+me = RisqiRA()
+```
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
