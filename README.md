@@ -31,3 +31,8 @@
     </tr>
    
 </table>
+
+<p align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+</p>
+
