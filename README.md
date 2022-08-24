@@ -1,13 +1,8 @@
-<p align="center">
-    <a href="https://github.com/risqiraa/risqiraa"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/risqiraa/risqiraa/graphs/contributors"><img src="https://img.shields.io/github/contributors/risqiraa/risqiraa?color=blue"></a>
-    <a href="https://github.com/risqiraa"><img src="https://img.shields.io/github/stars/risqiraa.svg?color=blue&logo=github"></a>
-    <a href="https://github.com/risqiraa/risqiraa/network/members"><img src="https://img.shields.io/github/forks/risqiraa/risqiraa.svg?color=blue&logo=github"></a>
-</p>
+
 
 [![](./header_.png)](#)
 
-## Welcome to my Github Profile! <img align='right' src="https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif" width="400">
+## Welcome to my Github Profile!  <a href="https://app.daily.dev/risqiraa"><img align="right" src="https://api.daily.dev/devcards/6c31f8235d614368a3d184fc9e1bcc53.png?r=gdg" width="360" alt="Risqi RA's Dev Card"/></a>
 ### About me!
 ```python
 class RisqiRA:
@@ -75,3 +70,9 @@ me = RisqiRA()
   <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="1020"/>
 </p>
 
+<p align="left">
+    <a href="https://github.com/risqiraa/risqiraa"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/risqiraa/risqiraa/graphs/contributors"><img src="https://img.shields.io/github/contributors/risqiraa/risqiraa?color=blue"></a>
+    <a href="https://github.com/risqiraa"><img src="https://img.shields.io/github/stars/risqiraa.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/risqiraa/risqiraa/network/members"><img src="https://img.shields.io/github/forks/risqiraa/risqiraa.svg?color=blue&logo=github"></a>
+</p>
