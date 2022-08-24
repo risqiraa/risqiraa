@@ -66,8 +66,8 @@ me = RisqiRA()
 </picture>
 
 <p></p>
-<p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="1020"/>
+<p align=left>
+  <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="840"/>
 </p>
 
 <p align="left">
