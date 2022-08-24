@@ -70,7 +70,7 @@ me = RisqiRA()
   <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risqiraa&theme=nord_dark" width="860">
 </picture>
 
-<br>
+<p></p>
 <p align=center>
   <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="1020"/>
 </p>
