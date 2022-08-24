@@ -18,7 +18,7 @@ class RisqiRA:
             goal: "To become a web development"
         }
         self.code=["Java","C++","python"]
-        self.tools=["Visual Studio Code","Windows 10","ASUS","Github","dll"]
+        self.tools=["Visual Studio Code"]
         self.interest=("Problem Solving","Coding")
         
         
