@@ -1,6 +1,6 @@
 
 
-[![](./header_.png)](#)
+[![](./cover.jpg)](#)
 
 ## Welcome to my Github Profile!  <a href="https://app.daily.dev/risqiraa"><img align="right" src="https://api.daily.dev/devcards/6c31f8235d614368a3d184fc9e1bcc53.png?r=gdg" width="360" alt="Risqi RA's Dev Card"/></a>
 ### About me!
