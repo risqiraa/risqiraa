@@ -66,11 +66,17 @@ me = RisqiRA()
 </picture>
 
 <p></p>
-<p align=left>
-  <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C" />
+<p align="left">
+    <img width="83.5%"src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C" /> <br>    
 </p>
 
+<p></p>
 <p align="left">
+    <img width="83.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=risqiraa&theme=dark&show_icons=true" alt="risqiraa" />
+</p>
+
+
+<p align="center">
     <a href="https://github.com/risqiraa/risqiraa"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/risqiraa/risqiraa/graphs/contributors"><img src="https://img.shields.io/github/contributors/risqiraa/risqiraa?color=blue"></a>
     <a href="https://github.com/risqiraa"><img src="https://img.shields.io/github/stars/risqiraa.svg?color=blue&logo=github"></a>
