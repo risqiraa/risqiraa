@@ -48,7 +48,30 @@ me = RisqiRA()
    
 </table>
 
+
+<details>
+  <summary><b>Languages stats</b></summary>
+  <br/>
+  <picture align="left">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=risqiraa&theme=nord_dark" width="425">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=risqiraa&theme=nord_bright" width="425">
+    <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=risqiraa&theme=nord_dark" width="425">
+  </picture>
+  <picture align="right">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=risqiraa&theme=nord_dark" width="425">
+    <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=risqiraa&theme=nord_bright" width="425">
+    <img alt="Most commit languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=risqiraa&theme=nord_dark" width="425">
+  </picture>
+</details>
+
+<picture >
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risqiraa&theme=nord_dark" width="860">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risqiraa&theme=nord_bright" width="860">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=risqiraa&theme=nord_dark" width="860">
+</picture>
+
+<br>
 <p align=center>
-  <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  <img src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="1020"/>
 </p>
 
