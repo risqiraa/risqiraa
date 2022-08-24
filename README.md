@@ -66,12 +66,12 @@ me = RisqiRA()
 </picture>
 
 <p></p>
-<p align="left">
+<p align="center">
     <img width="83.5%"src="https://github-profile-trophy.vercel.app/?username=risqiraa&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,BBB,BB,B,CCC,CC,C" /> <br>    
 </p>
 
 <p></p>
-<p align="left">
+<p align="center">
     <img width="83.5%" src="https://github-readme-stats.vercel.app/api/wakatime?username=risqiraa&theme=dark&show_icons=true" alt="risqiraa" />
 </p>
 
